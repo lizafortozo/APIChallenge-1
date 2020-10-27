@@ -3,6 +3,7 @@ body {
     color: white;
     margin: 0;
     font-family: rubik;
+    text-align: center;
 }
 
 .container {
@@ -14,6 +15,9 @@ h1 {
     text-transform: uppercase;
     text-align: center;
     font-size: 54px;
+    color: yellow;
+    font-family: 'Carter One';
+    text-shadow: 5px 4px blue;
 }
 
 #pokedex {
